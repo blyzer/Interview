@@ -1,0 +1,11 @@
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Persistence\bin\Debug\netcoreapp2.0\Persistence.deps.json
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Persistence\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Persistence\bin\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Persistence\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Persistence\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Persistence\obj\Debug\netcoreapp2.0\Persistence.csprojAssemblyReference.cache
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfo.cs
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CopyComplete
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Persistence\obj\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Persistence\obj\Debug\netcoreapp2.0\Persistence.pdb

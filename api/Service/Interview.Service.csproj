@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="TipoPermisoService.cs~RFeab2707.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Model\Interview.Model.csproj" />
+    <ProjectReference Include="..\Persistence\Interview.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

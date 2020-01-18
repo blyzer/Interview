@@ -1,0 +1,13 @@
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Service\bin\Debug\netcoreapp2.0\Service.deps.json
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Service\bin\Debug\netcoreapp2.0\Service.dll
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Service\bin\Debug\netcoreapp2.0\Service.pdb
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Service\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Service\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Service\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Service\bin\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Service\obj\Debug\netcoreapp2.0\Service.csprojAssemblyReference.cache
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfoInputs.cache
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfo.cs
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Service\obj\Debug\netcoreapp2.0\Service.csproj.CopyComplete
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Service\obj\Debug\netcoreapp2.0\Service.dll
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Service\obj\Debug\netcoreapp2.0\Service.pdb

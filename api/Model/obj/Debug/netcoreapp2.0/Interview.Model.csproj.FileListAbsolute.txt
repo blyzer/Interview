@@ -1,0 +1,8 @@
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Model\bin\Debug\netcoreapp2.0\Interview.Model.deps.json
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Model\bin\Debug\netcoreapp2.0\Interview.Model.dll
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Model\bin\Debug\netcoreapp2.0\Interview.Model.pdb
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Model\obj\Debug\netcoreapp2.0\Interview.Model.csprojAssemblyReference.cache
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Model\obj\Debug\netcoreapp2.0\Interview.Model.AssemblyInfoInputs.cache
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Model\obj\Debug\netcoreapp2.0\Interview.Model.AssemblyInfo.cs
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Model\obj\Debug\netcoreapp2.0\Interview.Model.dll
+C:\Users\blyzer\source\repos\NETCore-Api---VueJs-SPA\api\Model\obj\Debug\netcoreapp2.0\Interview.Model.pdb
